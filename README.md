@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arif Yusuf YILMAZ</h1>
 <h3 align="center">I am a candidate Software Engineer that has the experience of doing Erasmus+ learning mobility, Erasmus+ volunteering project, double major beyond that very interested in improving soft skills such a technical analysis on stock market,languages(English and Portuguese) ,reading books . I am also interested in doing sport activities and playing guitar. My specialities include back-end development with Java, C# and Mobile development with React Native.</h3>
 
-- 🌱 I’m currently learning **Spring Boot, .Net , React Native, Unity**
+- 🌱 I’m currently learning **Spring Boot, .Net , React Native**
 
 - 📫 How to reach me **yilmazarifyusuf@gmail.com**
 
